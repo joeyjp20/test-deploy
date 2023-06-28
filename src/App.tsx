@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <h1>What is going on here???</h1>
-      <p>Yeah buddy</p>
+      <p>Yeah buddy!!!</p>
     </>
   )
 }
